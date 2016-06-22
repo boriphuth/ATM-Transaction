@@ -1,0 +1,16 @@
+J:\Programme\Projects\ATM mmm\ATM\obj\Debug\ATM.exe
+J:\Programme\Projects\ATM mmm\ATM\obj\Debug\ATM.pdb
+J:\Programme\Projects\ATM mmm\ATM\bin\Debug\ATM.exe
+J:\Programme\Projects\ATM mmm\ATM\bin\Debug\ATM.pdb
+J:\Programme\Projects\ATM mmm\ATM\obj\Debug\ResolveAssemblyReference.cache
+J:\Programme\Projects\ATM mmm\ATM\obj\Debug\ATM.FormAddNewUsers.resources
+J:\Programme\Projects\ATM mmm\ATM\obj\Debug\ATM.History.resources
+J:\Programme\Projects\ATM mmm\ATM\obj\Debug\ATM.FormPinCode.resources
+J:\Programme\Projects\ATM mmm\ATM\obj\Debug\ATM.FormAbout.resources
+J:\Programme\Projects\ATM mmm\ATM\obj\Debug\ATM.FormAdminLogin.resources
+J:\Programme\Projects\ATM mmm\ATM\obj\Debug\ATM.FormMainMenu.resources
+J:\Programme\Projects\ATM mmm\ATM\obj\Debug\ATM.FormSettings.resources
+J:\Programme\Projects\ATM mmm\ATM\obj\Debug\ATM.Properties.Resources.resources
+J:\Programme\Projects\ATM mmm\ATM\obj\Debug\ATM.csproj.GenerateResource.Cache
+J:\Programme\Projects\ATM\ATM\obj\Debug\ATM.exe
+J:\Programme\Projects\ATM\ATM\obj\Debug\ATM.pdb

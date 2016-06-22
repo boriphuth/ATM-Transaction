@@ -1,0 +1,7 @@
+-> Restore the database
+
+-> For admin Login user name:mm and Pass:123
+
+-> Add new user
+
+-> With created username and password login into the main page
